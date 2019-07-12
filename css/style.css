@@ -1,4 +1,1 @@
-.anyClass {
-    height:150px;
-    overflow-y: scroll;
-  }
+.sticky-top { top: 1em; }
